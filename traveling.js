@@ -40,4 +40,4 @@ function hotelRoom(input) {
     console.log(`Studio: ${(nightsCounter * studio).toFixed(2)} lv.`);
 
 }
-hotelRoom();
+hotelRoom(["May","15"]);
