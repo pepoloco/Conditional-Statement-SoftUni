@@ -62,6 +62,7 @@ function newHome(input) {
         console.log(`Not enough money, you need ${difference.toFixed(2)} leva more.`)
     }
 
-
 }
+newHome(["Roses","55","250"]);
+
 
