@@ -59,4 +59,4 @@ function fishingBoat(input) {
     }
 
 }
-fishingBoat();
+fishingBoat(["3000","Summer","11"]);
