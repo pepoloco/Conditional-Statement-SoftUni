@@ -1,1 +1,1 @@
-Theese are exercises from the SoftUni conditional statement lection.
+Conditional statement exercises from SoftUni 
