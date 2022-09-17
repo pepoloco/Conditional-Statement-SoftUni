@@ -55,4 +55,4 @@ function operationBetweenNumbers(input) {
     }
 
 }
-operationBetweenNumbers();
+operationBetweenNumbers(["10","12","+"]);
